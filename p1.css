@@ -1,0 +1,55 @@
+*{
+    margin: 10px;
+}
+.third{
+    color: black;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.h3{
+    font-size: larger;
+    color: blueviolet;
+    /* font-style: italic; */
+}
+#list1{
+    color: blueviolet;
+}
+
+.divv{
+    margin-left: 100px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: justify;
+    background-color: aqua;
+    border: 2px solid rgb(1, 110, 134);
+    width: 70%;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px grey;
+}
+.divvv{
+    /* text-align: center; */
+    border: 3px solid rgb(1, 110, 134);
+    box-shadow: 5px 5px 5px gray;
+    padding: 10px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    /* background-image: url('images/Screenshot\ 2024-12-25\ 110527.png'); */
+    /* image-orientation: flip; */
+    background-color: aquamarine;
+
+}
+
+.image{
+    align-self: center;
+    max-height: 400px;
+    max-height: 450px;
+}
+.button{
+    background-color: antiquewhite;
+    color: cornflowerblue;
+}
+.span1{
+    display: inline-block;
+    border: 1px solid black;
+    /* display: hidden; */
+    /* display: inline; */
+    /* display: inline-block; */
+}
